@@ -9,7 +9,7 @@ With this application you will learn to use data binding through directives, che
 [<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40">](https://getbootstrap.com/)
 <br>
 <br>
-Your page will look like this: [Go](https://yadicep.github.io/TEMPLATE-BONDING/FORMS/1)
+Your page will look like this: [Go](https://yadicep.github.io/TEMPLATE-BINDING-FORMS-1/)
 
 <br>
 <br>
